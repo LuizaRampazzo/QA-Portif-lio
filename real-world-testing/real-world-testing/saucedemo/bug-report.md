@@ -42,4 +42,8 @@ Open
 
 ## Evidence
 
+Screenshot captured during login validation test:
+
+![Empty username error](screenshots/empty-username-error.png)
+
 Screenshot to be added.
