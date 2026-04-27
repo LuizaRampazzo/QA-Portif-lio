@@ -34,5 +34,5 @@ Testing the login functionality with valid and invalid scenarios.
 - Markdown
 - Manual Testing Techniques
 
-##📬Contact
+## 📬Contact
 LinkedIn: linkedin.com/in/luiza-rampazzo-02416a290
